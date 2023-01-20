@@ -1,4 +1,7 @@
 This file will contain a short silly funny rhyme.
 
-There was a Manchester cohort,
+There was a Manchester group,
+who liked to drink soup.
 
+They are learning how to use Git,
+whilst they all sit.
